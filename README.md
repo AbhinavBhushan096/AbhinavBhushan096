@@ -105,10 +105,10 @@ Plan → Architect → Build → Deploy → Automate → Monitor → Backup → 
 
 <p align="center">
   <a href="https://github.com/AbhinavBhushan096">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbhinavBhushan096&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=333333" alt="GitHub stats" height="165" />
+    <img src="https://github-readme-stats.shion.dev/api?username=AbhinavBhushan096&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=333333" alt="GitHub stats" height="165" />
   </a>
   <a href="https://github.com/AbhinavBhushan096">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavBhushan096&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=333333" alt="Top languages" height="165" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbhinavBhushan096&layout=compact&hide_border=true&title_color=0078D4&text_color=333333" alt="Top languages" height="165" />
   </a>
 </p>
 
