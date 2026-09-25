@@ -24,7 +24,7 @@
 
 Cloud-focused engineer working across infrastructure, DevOps, and automation. I build and manage reliable cloud environments, with full-stack development as a complementary skill.
 
-**Current role:** Cloud Engineer at [Truverizen Technologies](https://github.com/AbhinavBhushan096/Truverizen) (remote, Noida)
+**Current role:** Cloud Engineer at [Truverizen Technologies](https://www.linkedin.com/company/truverizen-technologies-private-limited) (remote, Noida)
 
 **Focus:** Cloud Infrastructure · DevOps · Networking · Monitoring · Backup · Disaster Recovery · Cloud Migration
 
